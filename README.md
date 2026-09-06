@@ -1,93 +1,52 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=39D0D8&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Erik+%F0%9F%91%8B;Desenvolvedor+Front-end;Crio+sites+para+neg%C3%B3cios+locais" alt="Typing SVG" />
+</div>
+
 <br>
 
-<div align="center">
-  <img width="33%" src="https://github.com/hak553/photoToProfile/blob/main/Programming%20Computer.svg" alt="Developer Laptop">
-</div>
-
-<div align="center">
-  
-  <b>`プ ロ グ ラ マ`</b>
-  <samp>
-      <br>
-      Olá! Me chamo <b>Erik</b>
-  </samp>
-</div>
-
-<div align="center" width="100%">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=Falo+Ingles+e+Português;Seja+Bem-vindo!" alt="Typing SVG"/>
-</div>
+<p align="center">
+  Estudo desenvolvimento front-end desde 2026, com foco em <b>HTML, CSS e JavaScript</b>.<br>
+  Atualmente crio landing pages e sites institucionais para pequenos negócios — academias, barbearias, salões e afins.
+</p>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
-</div>
-      
-<br>
-<br>
-      
-<div align="center">
-  
-</div>
-
-<div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" />
+  <img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS" />
+  <img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" />
+  <img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" />
+  <img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="VS Code" />
 </div>
 
 <br>
-<br>
 
-<details align="center">  
-  <summary>
-      <samp>
-        <b>Mais Informaçoes</b>
-      </samp>
-  </summary>
-  
-<br>
+---
 
-##
+### 🚀 Projetos em destaque
 
-<br>
+| Projeto | Descrição | Link |
+|---|---|---|
+| **Fit Plus Academia** | Landing page para academia — planos, galeria e contato via WhatsApp | [ver ao vivo](https://academia-hhwzal3h4-me-f8d9.vercel.app) |
+| **Barbearia Flex** | Site institucional com identidade clássica para barbearia | [ver ao vivo](https://barbearia-2x3r8da3n-me-f8d9.vercel.app) |
+| **Sneak Up** | Site para loja de tênis com vitrine de produtos | [ver ao vivo](https://tenis-6ynv5ruw1-me-f8d9.vercel.app) |
+
+---
 
 <div align="center">
-  <samp>
-    <b>
-      Contatos
-    </b>
-  </samp>
-  <br>
-  <br>
-
-  [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:erikborges290@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/erillikk/)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/erik-undefined-9ba719404/)
-  
+  <a href="mailto:erikborges290@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=39D0D8" />
+  </a>
+  <a href="https://www.instagram.com/erillikk/">
+    <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=39D0D8" />
+  </a>
+  <a href="https://www.linkedin.com/in/erik-undefined-9ba719404/">
+    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=39D0D8" />
+  </a>
 </div>
-
-<div align="center">
-  <p align="center">
-      <samp>
-        ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
-        <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
-        <a href="https://kamillymedino.carrd.co/">carrd.co</a> ⊹
-        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
-      </samp>
-  </p>
-</div>
-<br>
-
-</details>
-
-##
 
 <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=kamillyvm&style=flat-square&color=9400D3" /></p> 
+  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO-GITHUB&style=flat-square&color=39D0D8" alt="Visitor count" />
 </div>
-
-<br>
