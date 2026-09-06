@@ -49,7 +49,6 @@
       <b>Sneak Up</b><br>
       <sub>Site para loja de tênis com vitrine de produtos e promoções</sub><br><br>
       <img src="https://img.shields.io/badge/Site_Institucional-2E6F95?style=flat-square" />
-      <img src="https://img.shields.io/badge/Fictício-333333?style=flat-square" /><br><br>
       <a href="https://tenis-6ynv5ruw1-me-f8d9.vercel.app">
         <img src="https://img.shields.io/badge/Ver_projeto_ao_vivo-39D0D8?style=for-the-badge&logoColor=white" />
       </a>
